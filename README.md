@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### AWS Project Guide
+
+This link contains the detailed project setup: Hosting React App, initializing, adding features (authentication, api, storage)
+https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-five/
